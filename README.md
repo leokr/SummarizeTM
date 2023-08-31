@@ -4,7 +4,7 @@ A [tampermonkey](https://www.tampermonkey.net/) script (userscript) to call Azur
 # Installation
 - Install [tampermonkey](https://www.tampermonkey.net/) extension for your browser
 - Click on tampermonkey extension icon, create new script, paste contents of [Summarize selected text in one phrase-sentence-paragraph.user.js](https://github.com/leokr/SummarizeTM/blob/main/Summarize%20selected%20text%20in%20one%20phrase-sentence-paragraph.user.js)
-  - Update line 64 with your Azure OpenAI model deployment URL, update link 56 with corresponding api key.
+  - Update line 64 with your Azure OpenAI model deployment URL and line 9 with domain part of that URL, update link 56 with corresponding api key.
   - Save
 
 # Usage
