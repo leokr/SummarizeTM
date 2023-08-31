@@ -17,6 +17,6 @@ Need to find proper library as bundle in CDN to count tokens in request.
 # Context
 That was my experiment usage of LLM via Azure OpenAI to summarize any part of content on any page with different instructions: in one phrase/sentence/paragraph.
 
-I'd like to have similar UX link Google translate extension creates: once you select a text a button appears. If you click it then pop-up window with translation appears.
+I'd like to have similar UX like Google translate extension creates: once you select a text a button appears. If you click it then pop-up window with translation appears.
 
 But since I don't have enough experience with CSS/JS and learning that was not my goal at this time I selected the quickest way I found: to register a hotkey handler.
