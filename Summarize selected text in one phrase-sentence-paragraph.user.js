@@ -6,7 +6,7 @@
 // @author       leok
 // @match      *://*/*
 // @icon         https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/chatgpt-icon.svg
-// @connect      openai-1-we.openai.azure.com
+// @connect      <paste you own domain, e.g. openai-1-we.openai.azure.com>
 // @connect      leokpublicsawe.table.core.windows.net
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
